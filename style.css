@@ -169,9 +169,9 @@ h1, h2, h3, .nav-logo {
 }
 
 .skill-tag:hover {
-    background: var(--primary);
+    background:  #ec4899;
     color: white;
-    border-color: var(--primary);
+    border-color:  #ec4899;
 }
 
 ::-webkit-scrollbar { width: 8px; }
