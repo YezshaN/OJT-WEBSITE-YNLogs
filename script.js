@@ -13,7 +13,7 @@
 
                     {
                         type: 'images',
-                        urls: ['Images/.jpg', 'Images/.jpg']
+                        urls: ['Images/heroo.jpg', 'Images/profile.jpg']
                     },
                 ]
             },
@@ -108,6 +108,8 @@
             data.contentBlocks.forEach((block, blockIndex) => {
                 if (block.type === 'text') {
                     const div = document.createElement('div');
+                    //div.innerHTML = block.content;
+                    div.className = "detail-text-block";
                     div.innerHTML = block.content;
                     container.appendChild(div);
                     container.appendChild(document.createElement("hr")).className = "border-white/20 my-10";
