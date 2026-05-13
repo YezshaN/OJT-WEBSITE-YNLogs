@@ -7,7 +7,7 @@
                 contentBlocks: [
                     {
                         type: 'text',
-                        content: '<p>During the first week of our On-the-Job Training at the Dean’s Office, we were introduced to the office environment, workplace policies, and the different offices within the university. We learned the proper procedures for handling and routing documents, as well as the importance of professionalism, communication, and time management in an office setting. We also assisted in routing documents from different offices within the university, which helped us understand how administrative processes are managed efficiently.</p> <br> <p>Aside from office-related tasks, we were assigned to create a lecture presentation for Cell Physiology. This involved organizing the content, designing the presentation, and ensuring that the information was clear and visually engaging. Through this task, I enhanced my creativity, technical skills, and attention to detail while contributing educational materials that support teaching and learning.</p>'
+                        content: '<p>During the first week of my On-the-Job Training at the Dean’s Office, I was introduced to the office environment, workplace policies, and the different offices within the university. I learned the proper procedures for handling and routing documents, as well as the importance of professionalism, communication, and time management in an office setting. I also assisted in routing documents from different offices inside the university, which helped me understand how administrative processes are managed efficiently.</p> <br> <p>Aside from office-related tasks, I was assigned to create a lecture presentation for Cell Physiology. This involved organizing the content, designing the presentation, and ensuring that the information was clear and visually engaging. Through this task, I enhanced my creativity, technical skills, and attention to detail while contributing educational materials that support teaching and learning.</p>'
                     
                     },
 
@@ -17,14 +17,14 @@
                     },
                 ]
             },
+
             { 
                 week: '02', date: 'Mar 02 - Mar 08', title: 'Document Organization and Event Assistance', 
                 desc: 'Document scanning and organization, syllabus cover redesign, and assistance in event documentation and program card creation.',
                 contentBlocks: [
                     {
                         type: 'text',
-                        content: '<p>During the second week of my On-the-Job Training at the Dean’s Office, we were assigned to organize and scan the AR and TR documents of all teaching faculty in BUCS. We also assisted Sir Clyde in scanning important office documents needed for record keeping and administrative purposes. These tasks helped me improve my organizational skills, attention to detail, and ability to manage documents efficiently in a professional office environment.</p> <br> <p>In addition, we were tasked by the secretary to redesign the cover layout of the Course Syllabus for each department in BUCS. Before creating the design, we coordinated with the secretary to identify the important details and elements that needed to be included in the cover. This activity enhanced my communication, creativity, and layout design skills while ensuring that the output met the office’s standards and expectations.</p> <br> <p>Aside from office tasks, we also contributed to creating the program card for the “Dinner for a Cause” event organized by the Biology Department. During the event held at BU Bulwagan, I assisted in documenting and facilitating the program to help ensure the smooth flow of activities. Through this experience, I developed teamwork, event coordination, and multitasking skills while participating in an important departmental event.</p>'
-                    
+                        content: '<p>During the second week of my On-the-Job Training at the Dean’s Office, we were assigned to organize and scan the AR and TR documents of all teaching faculty in BUCS. We also assisted Sir Clyde in scanning important office documents needed for record keeping and administrative purposes. These tasks helped me improve my organizational skills, attention to detail, and ability to manage documents efficiently in a professional office environment.</p> <br> <p>In addition, we were tasked by the secretary to redesign the cover layout of the Course Syllabus for each department in BUCS. Before creating the design, we coordinated with the secretary to identify the important details and elements that needed to be included in the cover. This activity enhanced my communication, creativity, and layout design skills while ensuring that the output met the office’s standards and expectations.</p> <br> <p>Aside from office tasks, we also attended the small opening program for the month-long celebration of National Women’s Month held at BUCS Building 1. The activity was participated in by the staff and faculty, and we were present as attendees. After the program, we had a simple gathering together with the office personnel where snacks were served. Although we did not take active roles in the program, it allowed us to be part of the institutional activity and observe how office events are conducted in a formal setting.</p> <br> <p>We also contributed to creating the program card for the “Dinner for a Cause” event organized by the Biology Department. During the event held at BU Bulwagan, I helped capture moments and assisted during the program. Through this experience, I developed teamwork, event coordination, and multitasking skills while participating in an important departmental activity.</p>'
                     },
 
                     
@@ -34,24 +34,177 @@
                     },
                 ]
             },
+
             { 
-                week: '03', date: 'Mar 09 - Mar 13', title: '...', 
-                desc: '...',
-                contentBlocks: [{ type: 'text', content: '<p>...</p>' }]
+                week: '03', date: 'Mar 09 - Mar 13', title: 'Filing of Documents and Academic Material Preparation', 
+                desc: 'Filing documents, compliance checking, and creation of Biodiversity learning materials.',
+                contentBlocks: [
+                    { 
+                        type: 'text',
+                        content: '<p>During the third week of my On-the-Job Training at the Dean’s Office, we were assigned to file and organize the GAD documents and course syllabi of all teaching faculty per department in BUCS. As part of the task, we carefully checked the documents for missing papers and incomplete requirements. After reviewing the files, we reported the missing documents and necessary compliances to Ate Ayin to help ensure that all records were complete and properly organized. This activity enhanced my attention to detail, organizational skills, and sense of responsibility in handling important documents.</p> <br> <p>Aside from document management tasks, I was also tasked to create a lecture presentation for Biodiversity and design an activity worksheet to support the lesson. This involved organizing academic content, preparing visual materials, and creating activities that would help students better understand the topic. In addition, I assisted in routing documents to different offices within the university. Through these tasks, I continued to improve my communication, technical, creativity, and multitasking skills while gaining more experience in both administrative and academic support responsibilities.</p>'
+                         
+                    },
+                
+                    {
+                        type: 'images',
+                        urls: ['Images/.jpg']
+                    },
+                ]
             },
+
             { 
-                week: '04', date: 'Mar 16 - Mar 20', title: '...', 
-                desc: '...',
-                contentBlocks: [{ type: 'text', content: '<p>...</p>' }]
+                week: '04', date: 'Mar 16 - Mar 20', title: 'Document Filing and Presentation Design Tasks', 
+                desc: 'Document organization, routing tasks, presentation redesigns, and syllabus cover finalization.',
+                contentBlocks: [
+                   { 
+                        type: 'text',
+                        content: '<p>During the fourth week of my On-the-Job Training at the Dean’s Office, we continued organizing and filing the GAD documents and course syllabi of all teaching faculty in BUCS. We also assisted in routing documents to different offices within the university to support the smooth flow of administrative processes. Through these tasks, I continued to develop my organizational skills, attention to detail, and familiarity with office procedures and document management.</p> <br> <p>In addition to office-related responsibilities, Ma’am Joy tasked us to create a presentation containing guide questions for the FCD Deans and Directors Meeting. We were also assigned to redesign a presentation titled “Exploratory Survey of Lead (Pb) Accumulator Plant Species Thriving in the Tailing Storage Facility of the Masbate Gold Project in Aroroy, Masbate.” This involved improving the layout, visual presentation, and overall organization of the slides to make the presentation clearer and more professional. Furthermore, we worked on adding the final touches to the redesigned course syllabus cover layouts for each department in BUCS. These tasks enhanced my creativity, presentation design skills, and ability to collaborate effectively in completing academic and administrative projects.</p>'
+                         
+                    },
+                
+                    {
+                        type: 'images',
+                        urls: ['Images/.jpg']
+                    },
+                ]
             },
-            { week: '05', date: 'Mar 23 - Mar 27', title: '...', desc: '...', contentBlocks: [{type: 'text', content: '<p>...</p>'}] },
-            { week: '06', date: 'Mar 30 - Apr 03', title: '...', desc: '...', contentBlocks: [{type: 'text', content: '<p>...</p>'}] },
-            { week: '07', date: 'Apr 06 - Apr 10', title: '...', desc: '...', contentBlocks: [{type: 'text', content: '<p>...</p>'}] },
-            { week: '08', date: 'Apr 13 - Apr 17', title: '...', desc: '...', contentBlocks: [{type: 'text', content: '<p>...</p>'}] },
-            { week: '09', date: 'Apr 20 - Apr 24', title: '...', desc: '...', contentBlocks: [{type: 'text', content: '<p>...</p>'}] },
-            { week: '10', date: 'Apr 27 - May 01', title: '...', desc: '...', contentBlocks: [{type: 'text', content: '<p>...</p>'}] },
-            { week: '11', date: 'May 04 - May 08', title: '...', desc: '...', contentBlocks: [{type: 'text', content: '<p>...</p>'}] },
-            { week: '12', date: 'May 11 - May 15', title: '...', desc: '...', contentBlocks: [{type: 'text', content: '<p>...</p>'}] }
+
+            { 
+                week: '05', date: 'Mar 23 - Mar 27', title: 'Document Processing and Academic Material Preparation', 
+                desc: 'Document sorting and punching, syllabus printing, and Circulatory Physiology presentation development.', 
+                contentBlocks: [
+                    { 
+                            type: 'text',
+                            content: '<p>During the fifth week of my On-the-Job Training at the Dean’s Office, we continued our routine of routing documents to different offices within the university. Alongside this, we began the process of punching and further organizing the papers while sorting them according to their respective departments. This activity helped improve my efficiency in handling large volumes of documents and strengthened my attention to proper filing and categorization.</p> <br> <p>In addition to document management tasks, we also started printing the finalized layout covers that we designed for the course syllabi. This allowed us to see the actual output of our previous design work and ensured that the materials were ready for distribution. Furthermore, Ma’am Joy assigned me to create a lecture presentation for Circulatory Physiology, which involved organizing scientific content and designing a clear and informative visual presentation. Through these tasks, I was able to further develop my skills in both administrative work and academic material preparation.</p>'
+                    },
+                    
+                    {
+                            type: 'images',
+                            urls: ['Images/.jpg']
+                    },
+                ]
+            },
+
+            { 
+                week: '06', date: 'Mar 30 - Apr 03', title: 'Document Organization and Office Assistance', 
+                desc: 'Document organization and routing, front desk assistance, and temporary office role coverage.', 
+                contentBlocks: [
+                    { 
+                            type: 'text',
+                            content: '<p>This week, we continued punching, sorting, and organizing the documents according to their respective departments as part of the ongoing filing process for the teaching faculty records in BUCS. Since most of the documents were already arranged, the tasks became more focused on ensuring that the files were complete, properly categorized, and ready for submission or storage. Through this activity, I further improved my patience, accuracy, and organizational skills in handling important office documents.</p> <br> <p>We also reported to the office regularly and assisted with the daily administrative tasks. During one instance this week, my fellow intern and I temporarily took over some of the responsibilities of Ate Ayin and Ate Kim while they were unavailable. We handled receiving documents and assisting individuals who came to the office, which gave us additional exposure to actual office operations and front desk responsibilities. This experience helped enhance my communication skills, professionalism, confidence, and ability to work responsibly in a real workplace environment.</p>'
+                    },
+                    
+                    {
+                            type: 'images',
+                            urls: ['Images/.jpg']
+                    },
+                ]
+            },
+
+            { week: '07', date: 'Apr 06 - Apr 10', title: 'Document Labeling, Filing, and Academic Material Preparation', 
+                desc: 'Document labeling, filing tasks, syllabus completion, and Respiratory Physiology presentation creation.', 
+                contentBlocks: [
+                    { 
+                            type: 'text',
+                            content: '<p>During the seventh week of my On-the-Job Training at the Dean’s Office, we were assigned to create a layout design for the labels of documents inside the office. This task required us to ensure that the labels were clear, organized, and suitable for proper identification and filing of office documents. In addition, we continued working on finalizing the course syllabi, making sure that all necessary documents were properly arranged, filed, sorted, and organized as requested by Ate Ayin. We also assisted in routing documents to different offices, which helped maintain the smooth flow of administrative processes.</p> <br> <p>Aside from administrative responsibilities, I was also tasked to create a lecture presentation for Respiratory Physiology. This involved organizing scientific content and designing a clear and engaging presentation to support academic instruction. Through these combined tasks, I further developed my skills in document management, attention to detail, creativity in design, and preparation of instructional materials, while gaining more exposure to both office and academic-related work.</p>'
+                    },
+                    
+                    {
+                            type: 'images',
+                            urls: ['Images/.jpg']
+                    },
+                ]
+            },
+
+            { week: '08', date: 'Apr 13 - Apr 17', title: 'Document Management and Event Documentation', 
+                desc: 'Office documentation, staff role assistance, and BIOTA event coverage at Hotel St. Ellis.', 
+                contentBlocks: [
+                    { 
+                            type: 'text',
+                            content: '<p>During the eighth week of my On-the-Job Training at the Dean’s Office, we continued filing and organizing documents inside the office as part of the ongoing completion of records. We reported to the office as usual and, for this week, we temporarily took over the responsibilities of Ate Ayin and Kuya Clyde, which gave us more exposure to handling office operations independently. This experience helped strengthen my confidence, responsibility, and adaptability in performing administrative tasks.</p> <br> <p>In addition, we assisted during Day 2 of the BIOTA event held last April 17 at Hotel St. Ellis. Ma’am Joy assigned me to document the event, where I was responsible for taking records of the activities and key moments throughout the program. I also provided assistance in other necessary tasks needed during the event to ensure its smooth flow. Through this experience, I improved my documentation skills, attention to detail, and ability to work effectively in a fast-paced event setting.</p>'
+                    },
+                    
+                    {
+                            type: 'images',
+                            urls: ['Images/.jpg']
+                    },
+                ]
+            },
+
+            { week: '09', date: 'Apr 20 - Apr 24', title: 'Document Routing, Archiving, and Academic Material Preparation',
+                desc: 'Document routing, digital photo organization, and Membrane Physiology presentation creation.',
+                contentBlocks: [
+                    { 
+                            type: 'text',
+                            content: '<p>During the ninth week of my On-the-Job Training at the Dean’s Office, we continued routing documents while also maintaining the filing and organization of records inside the office. These tasks remained essential in ensuring that all documents were properly arranged and accessible, contributing to the smooth flow of administrative work and office operations.</p> <br> <p>In addition, we began exporting photos taken during Day 2 and Day 3 of the event. We edited and organized these photos before uploading them into a Google Drive for proper archiving and future posting. This activity helped me develop skills in digital file management, basic photo organization, and teamwork in handling event documentation. Alongside these tasks, I also created a lecture presentation for Membrane Physiology, which involved organizing scientific content into a clear and visually structured format for academic use.</p>'
+                    },
+                    
+                    {
+                            type: 'images',
+                            urls: ['Images/.jpg']
+                    },
+                ]
+            },
+
+            { week: '10', date: 'Apr 27 - May 01', title: 'Event Documentation and Office Assistance',
+                desc: 'Event documentation, social media content posting, and office routing and assistance tasks.',
+                contentBlocks: [
+                    { 
+                            type: 'text',
+                            content: '<p>During the tenth week of my On-the-Job Training at the Dean’s Office, we documented the happenings during the BUCS Recognition Ceremony held at Bicol University East Campus. This involved capturing important moments of the event to ensure proper documentation of the activity. Through this, I was able to further develop my attention to detail and skills in event coverage and documentation.</p> <br> <p>In addition, we worked on creating captions for Day 2 and Day 3 of the BIOTA event, which were intended for posting on the BUCS Facebook page. The captions were reviewed and validated by Ma’am Joy before being posted, ensuring accuracy and appropriateness of the content. After approval, we proceeded with uploading the photos and event highlights to the BUCS page. I also created a lecture presentation on Excretory Physiology for Ma’am Joy. In addition, I continued routing documents within the office and reported for half a day on behalf of Ate Ayin, assisting in maintaining the daily office workflow.</p>'
+                    },
+                    
+                    {
+                            type: 'images',
+                            urls: ['Images/.jpg']
+                    },
+                ]
+            },
+
+            { week: '11', date: 'May 04 - May 08', title: 'Examination Facilitation and Document Management',
+                desc: 'Examination monitoring, document sorting and routing, thesis hardbound checking, errands, and printing of academic materials.',
+                contentBlocks: [
+                    { 
+                            type: 'text',
+                            content: '<p>During the eleventh week of my On-the-Job Training at the Dean’s Office, we assisted in the examination period of the 1st year BSCS students under Ma’am Arlene Satuito. Our role during the exam was primarily as examination proctors, where we helped ensure that the examination was conducted in an orderly and proper manner. We also assisted in addressing student concerns and inquiries during the exam, when necessary, to help maintain a smooth and organized testing environment.</p> <br> <p>Aside from exam monitoring, we were also assigned to print handouts and documents for Ma’am Joy and Ma’am Anne for their MOA Signing and Biodiversity Assessment Training in Butuan, Masbate. We also ran errands as requested by the Ma’am Joy, which exposed us to various administrative tasks and coordination work within the office. In addition, we were involved in monitoring thesis hardbound submissions, ensuring that documents were properly handled and organized. We also continued sorting documents for the academic year 2024–2025 and routing files to their respective offices.</p> <br> <p>Through these responsibilities, I was able to further develop my sense of responsibility, attentiveness, and professionalism in both academic and administrative settings. This week also gave me a clearer understanding of how examinations and office operations are managed simultaneously within the institution.</p>'
+                    },
+                    
+                    {
+                            type: 'images',
+                            urls: ['Images/.jpg']
+                    },
+                ]
+            },
+
+            { week: '12', date: 'May 11 - May 15', title: '...',
+                desc: '...',
+                contentBlocks: [
+                    { 
+                            type: 'text',
+                            content: '<p></p>'
+                    },
+                    
+                    {
+                            type: 'images',
+                            urls: ['Images/.jpg']
+                    },
+                ]
+            },
+
+            { week: '13', date: 'May 18 - May 22', title: '...',
+                desc: '...',
+                contentBlocks: [
+                    { 
+                            type: 'text',
+                            content: '<p></p>'
+                    },
+                    
+                    {
+                            type: 'images',
+                            urls: ['Images/.jpg']
+                    },
+                ]
+            },
         ];
 
         let currentPage = 1;
