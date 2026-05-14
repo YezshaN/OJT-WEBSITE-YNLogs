@@ -13,7 +13,7 @@
 
                     {
                         type: 'images',
-                        urls: ['Images/heroo.jpg', 'Images/profile.jpg']
+                        urls: ['Images/week1.jpg', 'Images/week1.1.jpg', 'Images/week1.3.png', 'Images/week1.2.png']
                     },
                 ]
             },
@@ -30,7 +30,7 @@
                     
                     {
                         type: 'images',
-                        urls: ['Images/.jpg']
+                        urls: ['Images/week2.jpg', 'Images/week2.1.jpg', 'Images/week2.8.jpg', 'Images/week2.2.jpg', 'Images/week2.3.jpg','Images/week2.4.jpg', 'Images/week2.5.png', 'Images/week2.9.jpg', 'Images/week2.10.jpg', 'Images/week2.11.jpg' ]
                     },
                 ]
             },
@@ -41,13 +41,13 @@
                 contentBlocks: [
                     { 
                         type: 'text',
-                        content: '<p>During the third week of my On-the-Job Training at the Dean’s Office, we were assigned to file and organize the GAD documents and course syllabi of all teaching faculty per department in BUCS. As part of the task, we carefully checked the documents for missing papers and incomplete requirements. After reviewing the files, we reported the missing documents and necessary compliances to Ate Ayin to help ensure that all records were complete and properly organized. This activity enhanced my attention to detail, organizational skills, and sense of responsibility in handling important documents.</p> <br> <p>Aside from document management tasks, I was also tasked to create a lecture presentation for Biodiversity and design an activity worksheet to support the lesson. This involved organizing academic content, preparing visual materials, and creating activities that would help students better understand the topic. In addition, I assisted in routing documents to different offices within the university. Through these tasks, I continued to improve my communication, technical, creativity, and multitasking skills while gaining more experience in both administrative and academic support responsibilities.</p>'
+                        content: '<p>During the third week of my On-the-Job Training at the Dean’s Office, we were assigned to file and organize the GAD documents and course syllabus of all teaching faculty per department in BUCS. As part of the task, we carefully checked the documents for missing papers and incomplete requirements. After reviewing the files, we reported the missing documents and necessary compliances to Ate Ayin to help ensure that all records were complete and properly organized. This activity enhanced my attention to detail, organizational skills, and sense of responsibility in handling important documents.</p> <br> <p>Aside from document management tasks, I was also tasked to create a lecture presentation for Biodiversity and created an activity worksheet to support the lesson. This involved organizing academic content, preparing visual materials, and creating activities that would help students better understand the topic. In addition, I assisted in routing documents to different offices within the university. Through these tasks, I continued to improve my communication, technical, creativity, and multitasking skills while gaining more experience in both administrative and academic support responsibilities.</p>'
                          
                     },
                 
                     {
                         type: 'images',
-                        urls: ['Images/.jpg']
+                        urls: ['Images/week3.jpg', 'Images/week3.1.jpg', 'Images/week3.3.png', 'Images/week3.4.png']
                     },
                 ]
             },
@@ -64,7 +64,7 @@
                 
                     {
                         type: 'images',
-                        urls: ['Images/.jpg']
+                        urls: ['Images/week4.jpg', 'Images/week4.1.png', 'Images/week4.2.png', 'Images/week4.3.png', 'Images/week4.4.jpg']
                     },
                 ]
             },
@@ -80,7 +80,7 @@
                     
                     {
                             type: 'images',
-                            urls: ['Images/.jpg']
+                            urls: ['Images/week5.jpg', 'Images/week5.1.jpg', 'Images/week5.2.jpg', 'Images/week5.3.png']
                     },
                 ]
             },
@@ -106,7 +106,7 @@
                 contentBlocks: [
                     { 
                             type: 'text',
-                            content: '<p>During the seventh week of my On-the-Job Training at the Dean’s Office, we were assigned to create a layout design for the labels of documents inside the office. This task required us to ensure that the labels were clear, organized, and suitable for proper identification and filing of office documents. In addition, we continued working on finalizing the course syllabi, making sure that all necessary documents were properly arranged, filed, sorted, and organized as requested by Ate Ayin. We also assisted in routing documents to different offices, which helped maintain the smooth flow of administrative processes.</p> <br> <p>Aside from administrative responsibilities, I was also tasked to create a lecture presentation for Respiratory Physiology. This involved organizing scientific content and designing a clear and engaging presentation to support academic instruction. Through these combined tasks, I further developed my skills in document management, attention to detail, creativity in design, and preparation of instructional materials, while gaining more exposure to both office and academic-related work.</p>'
+                            content: '<p>During the seventh week of my On-the-Job Training at the Dean’s Office, we were assigned to create a layout design for the labels of documents inside the office. This task required us to ensure that the labels were clear, organized, and suitable for proper identification and filing of office documents. In addition, we continued working on finalizing the course syllabi, ensuring that all necessary documents were properly arranged, filed, sorted, and organized as requested by Ate Ayin. During this week, we were able to complete the filing and organization of the course syllabi of all faculty members per department. We also assisted in routing documents to different offices, which helped maintain the smooth flow of administrative processes.</p> <br> <p>Aside from administrative responsibilities, I was also tasked to create a lecture presentation for Respiratory Physiology. This involved organizing scientific content and designing a clear and engaging presentation to support academic instruction. Through these combined tasks, I further developed my skills in document management, attention to detail, creativity in design, and preparation of instructional materials, while gaining more exposure to both office and academic-related work.</p>'
                     },
                     
                     {
@@ -121,7 +121,7 @@
                 contentBlocks: [
                     { 
                             type: 'text',
-                            content: '<p>During the eighth week of my On-the-Job Training at the Dean’s Office, we continued filing and organizing documents inside the office as part of the ongoing completion of records. We reported to the office as usual and, for this week, we temporarily took over the responsibilities of Ate Ayin and Kuya Clyde, which gave us more exposure to handling office operations independently. This experience helped strengthen my confidence, responsibility, and adaptability in performing administrative tasks.</p> <br> <p>In addition, we assisted during Day 2 of the BIOTA event held last April 17 at Hotel St. Ellis. Ma’am Joy assigned me to document the event, where I was responsible for taking records of the activities and key moments throughout the program. I also provided assistance in other necessary tasks needed during the event to ensure its smooth flow. Through this experience, I improved my documentation skills, attention to detail, and ability to work effectively in a fast-paced event setting.</p>'
+                            content: '<p>During the eighth week of my On-the-Job Training at the Dean’s Office, we started filing and organizing all incoming and outgoing documents from 2024 to 2025 for the completion and archiving of office records. We reported to the office as usual and, for this week, we temporarily took over the responsibilities of Ate Ayin and Kuya Clyde, which gave us more exposure to handling office operations independently. This experience helped strengthen my confidence, responsibility, and adaptability in performing administrative tasks.</p> <br> <p>In addition, we assisted during Day 2 of the BIOTA event held last April 17 at Hotel St. Ellis. Ma’am Joy assigned me to document the event, where I was responsible for taking records of the activities and key moments throughout the program. I also provided assistance in other necessary tasks needed during the event to ensure its smooth flow. Through this experience, I improved my documentation skills, attention to detail, and ability to work effectively in a fast-paced event setting.</p>'
                     },
                     
                     {
@@ -151,7 +151,7 @@
                 contentBlocks: [
                     { 
                             type: 'text',
-                            content: '<p>During the tenth week of my On-the-Job Training at the Dean’s Office, we documented the happenings during the BUCS Recognition Ceremony held at Bicol University East Campus. This involved capturing important moments of the event to ensure proper documentation of the activity. Through this, I was able to further develop my attention to detail and skills in event coverage and documentation.</p> <br> <p>In addition, we worked on creating captions for Day 2 and Day 3 of the BIOTA event, which were intended for posting on the BUCS Facebook page. The captions were reviewed and validated by Ma’am Joy before being posted, ensuring accuracy and appropriateness of the content. After approval, we proceeded with uploading the photos and event highlights to the BUCS page. I also created a lecture presentation on Excretory Physiology for Ma’am Joy. In addition, I continued routing documents within the office and reported for half a day on behalf of Ate Ayin, assisting in maintaining the daily office workflow.</p>'
+                            content: '<p>During the tenth week of my On-the-Job Training at the Dean’s Office, we documented the happenings during the BUCS Recognition Ceremony held at Bicol University East Campus. This involved capturing important moments of the event to ensure proper documentation of the activity. We also continued sorting all the documents from 2024 to 2025. Through these tasks, I was able to further develop my attention to detail and skills in event coverage and documentation.</p> <br> <p>In addition, we worked on creating captions for Day 2 and Day 3 of the BIOTA event, which were intended for posting on the BUCS Facebook page. The captions were reviewed and validated by Ma’am Joy before being posted, ensuring accuracy and appropriateness of the content. After approval, we proceeded with uploading the photos and event highlights to the BUCS page. I also created a lecture presentation on Excretory Physiology for Ma’am Joy. In addition, I continued routing documents within the office and reported for half a day on behalf of Ate Ayin, assisting in maintaining the daily office workflow.</p>'
                     },
                     
                     {

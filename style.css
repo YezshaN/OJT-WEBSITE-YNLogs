@@ -169,9 +169,11 @@ h1, h2, h3, .nav-logo {
 }
 
 .skill-tag:hover {
-    background: var(--primary);
+    background: #ec4899;
     color: white;
-    border-color: var(--primary);
+    border-color: #ec4899;
+    transform: translateY(-2px);
+    box-shadow: 0 10px 25px rgba(236, 72, 153, 0.3);
 }
 
 .floating-orb {
