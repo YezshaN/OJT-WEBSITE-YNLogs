@@ -80,7 +80,7 @@
                     
                     {
                             type: 'images',
-                            urls: ['Images/week5.jpg', 'Images/week5.1.jpg', 'Images/week5.2.jpg', 'Images/week5.3.png']
+                            urls: ['Images/week5.jpg', 'Images/week5.1.jpg', 'Images/week5.2.png', 'Images/week5.3.png']
                     },
                 ]
             },
@@ -96,7 +96,7 @@
                     
                     {
                             type: 'images',
-                            urls: ['Images/.jpg']
+                            urls: ['Images/week6.jpg', 'Images/week6.2.jpg', 'Images/week6.4.jpeg']
                     },
                 ]
             },
@@ -106,12 +106,12 @@
                 contentBlocks: [
                     { 
                             type: 'text',
-                            content: '<p>During the seventh week of my On-the-Job Training at the Dean’s Office, we were assigned to create a layout design for the labels of documents inside the office. This task required us to ensure that the labels were clear, organized, and suitable for proper identification and filing of office documents. In addition, we continued working on finalizing the course syllabi, ensuring that all necessary documents were properly arranged, filed, sorted, and organized as requested by Ate Ayin. During this week, we were able to complete the filing and organization of the course syllabi of all faculty members per department. We also assisted in routing documents to different offices, which helped maintain the smooth flow of administrative processes.</p> <br> <p>Aside from administrative responsibilities, I was also tasked to create a lecture presentation for Respiratory Physiology. This involved organizing scientific content and designing a clear and engaging presentation to support academic instruction. Through these combined tasks, I further developed my skills in document management, attention to detail, creativity in design, and preparation of instructional materials, while gaining more exposure to both office and academic-related work.</p>'
+                            content: '<p>During the seventh week of my On-the-Job Training at the Dean’s Office, we were assigned to create a layout design for the labels of documents inside the office. This task required us to ensure that the labels were clear, organized, and suitable for proper identification and filing of office documents. In addition, we continued working on finalizing the course syllabi, ensuring that all necessary documents were properly arranged, filed, sorted, and organized as requested by Ate Ayin. During this week, we were able to complete the filing and organization of the course syllabi of all faculty members per department. We also assisted in routing documents to different offices, which helped maintain the smooth flow of administrative processes.</p> <br> <p>Aside from administrative responsibilities, I was also tasked to create a lecture presentation for Respiratory and Excretory Physiology for Ma’am Joy. This involved organizing scientific content and designing a clear and engaging presentation to support academic instruction. Through these combined tasks, I further developed my skills in document management, attention to detail, creativity in design, and preparation of instructional materials, while gaining more exposure to both office and academic-related work.</p>'
                     },
                     
                     {
                             type: 'images',
-                            urls: ['Images/.jpg']
+                            urls: ['Images/week7.jpg', 'Images/week7.1.png', 'Images/week7.2.png', 'Images/week7.3.png', 'Images/week7.4.png']
                     },
                 ]
             },
@@ -126,7 +126,7 @@
                     
                     {
                             type: 'images',
-                            urls: ['Images/.jpg']
+                            urls: ['Images/week8.jpg', 'Images/week8.1.jpg', 'Images/week8.7.jpg',  'Images/week8.2.jpg', 'Images/week8.3.jpg', 'Images/week8.4.jpg', 'Images/week8.5.jpeg', 'Images/week8.6.jpg']
                     },
                 ]
             },
@@ -141,7 +141,7 @@
                     
                     {
                             type: 'images',
-                            urls: ['Images/.jpg']
+                            urls: [ 'Images/week9.jpg', 'Images/week9.1.jpg', 'Images/week9.2.png', 'Images/week9.3.png', 'Images/week9.4.png', 'Images/week9.5.png']
                     },
                 ]
             },
@@ -151,12 +151,12 @@
                 contentBlocks: [
                     { 
                             type: 'text',
-                            content: '<p>During the tenth week of my On-the-Job Training at the Dean’s Office, we documented the happenings during the BUCS Recognition Ceremony held at Bicol University East Campus. This involved capturing important moments of the event to ensure proper documentation of the activity. We also continued sorting all the documents from 2024 to 2025. Through these tasks, I was able to further develop my attention to detail and skills in event coverage and documentation.</p> <br> <p>In addition, we worked on creating captions for Day 2 and Day 3 of the BIOTA event, which were intended for posting on the BUCS Facebook page. The captions were reviewed and validated by Ma’am Joy before being posted, ensuring accuracy and appropriateness of the content. After approval, we proceeded with uploading the photos and event highlights to the BUCS page. I also created a lecture presentation on Excretory Physiology for Ma’am Joy. In addition, I continued routing documents within the office and reported for half a day on behalf of Ate Ayin, assisting in maintaining the daily office workflow.</p>'
+                            content: '<p>During the tenth week of my On-the-Job Training at the Dean’s Office, we documented the happenings during the BUCS Recognition Ceremony held at Bicol University East Campus. This involved capturing important moments of the event to ensure proper documentation of the activity. We also continued sorting all the documents from 2024 to 2025. Through these tasks, I was able to further develop my attention to detail and skills in event coverage and documentation.</p> <br> <p>In addition, we worked on creating captions for Day 2 and Day 3 of the BIOTA event, which were intended for posting on the BUCS Facebook page. The captions were reviewed and validated by Ma’am Joy before being posted, ensuring accuracy and appropriateness of the content. After approval, we proceeded with uploading the photos and event highlights to the BUCS page. In addition, we continued routing documents within the office and reported for half a day on behalf of Ate Ayin, assisting in maintaining the daily office workflow.</p>'
                     },
                     
-                    {
+                    {                   
                             type: 'images',
-                            urls: ['Images/.jpg']
+                            urls: ['Images/week10.jpg', 'Images/week10.1.jpg', 'Images/week10.2.jpg', 'Images/week10.3.png', 'Images/week10.4.png']
                     },
                 ]
             },
@@ -166,12 +166,12 @@
                 contentBlocks: [
                     { 
                             type: 'text',
-                            content: '<p>During the eleventh week of my On-the-Job Training at the Dean’s Office, we assisted in the examination period of the 1st year BSCS students under Ma’am Arlene Satuito. Our role during the exam was primarily as examination proctors, where we helped ensure that the examination was conducted in an orderly and proper manner. We also assisted in addressing student concerns and inquiries during the exam, when necessary, to help maintain a smooth and organized testing environment.</p> <br> <p>Aside from exam monitoring, we were also assigned to print handouts and documents for Ma’am Joy and Ma’am Anne for their MOA Signing and Biodiversity Assessment Training in Butuan, Masbate. We also ran errands as requested by the Ma’am Joy, which exposed us to various administrative tasks and coordination work within the office. In addition, we were involved in monitoring thesis hardbound submissions, ensuring that documents were properly handled and organized. We also continued sorting documents for the academic year 2024–2025 and routing files to their respective offices.</p> <br> <p>Through these responsibilities, I was able to further develop my sense of responsibility, attentiveness, and professionalism in both academic and administrative settings. This week also gave me a clearer understanding of how examinations and office operations are managed simultaneously within the institution.</p>'
+                            content: '<p>During the eleventh week of my On-the-Job Training at the Dean’s Office, we assisted in the examination period of the 1st year BSCS students under Ma’am Arlene Satuito. Our role during the exam was primarily as examination proctors, where we helped ensure that the examination was conducted in an orderly and proper manner. We also assisted in addressing student concerns and inquiries during the exam, when necessary, to help maintain a smooth and organized testing environment.</p> <br> <p>Aside from exam monitoring, we were also assigned to print handouts and documents for Ma’am Joy and Ma’am Anne for their MOA Signing and Biodiversity Assessment Training in Butuan, Masbate. We also ran errands as requested by Ma’am Joy, which exposed us to various administrative tasks and coordination work within the office. In addition, we were involved in monitoring thesis hardbound submissions, ensuring that documents were properly handled and organized. We also continued sorting documents for the academic year 2024–2025 and routing files to their respective offices.</p> <br> <p>Through these responsibilities, I was able to further develop my sense of responsibility, attentiveness, and professionalism in both academic and administrative settings. This week also gave me a clearer understanding of how examinations and office operations are managed simultaneously within the institution.</p>'
                     },
                     
                     {
                             type: 'images',
-                            urls: ['Images/.jpg']
+                            urls: ['Images/week11.jpg', 'Images/week11.1.jpg', 'Images/week11.2.jpg','Images/week11.3.png']
                     },
                 ]
             },
