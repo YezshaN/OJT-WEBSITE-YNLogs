@@ -176,27 +176,27 @@
                 ]
             },
 
-            { week: '12', date: 'May 11 - May 15', title: '...',
-                desc: '...',
+            { week: '12', date: 'May 11 - May 15', title: 'Examination Assistance and Administrative Tasks',
+                desc: 'Examination assistance, document routing and organization, and administrative support tasks for the Dean’s Office.',
                 contentBlocks: [
                     { 
                             type: 'text',
-                            content: '<p></p>'
+                            content: '<p>For the twelfth week of my On-the-Job Training at the Dean’s Office, we once again assisted during the examination period of the 1st year BSCS–1C students under Ma’am Arlene Satuito. Our responsibility during the examination was to help maintain order inside the room and assist students with concerns or inquiries whenever necessary. This experience continued to enhance my attentiveness, professionalism, and ability to handle responsibilities in an academic setting.</p> <br> <p>Aside from examination assistance, I also ran errands assigned by Ma’am Joy and assisted in routing documents to different offices within the university. We also continued organizing and arranging office documents to ensure that records were properly managed and easily accessible. Through these tasks, I further improved my organizational, communication, and multitasking skills while gaining more experience in office operations and administrative support.</p>'
                     },
                     
                     {
                             type: 'images',
-                            urls: ['Images/.jpg']
+                            urls: ['Images/week12.jpg', 'Images/week12.1.jpg', 'Images/week12.2.jpeg']
                     },
                 ]
             },
 
-            { week: '13', date: 'May 18 - May 22', title: '...',
-                desc: '...',
+            { week: '13', date: 'May 18 - May 22', title: 'Document Filing and Layout Design Tasks',
+                desc: 'Completion of 2024–2025 document filing, organization of 2026 records, document routing, and layout design for the 2026 BUCS–ARO Campus Tour.',
                 contentBlocks: [
                     { 
                             type: 'text',
-                            content: '<p></p>'
+                            content: '<p>During the thirteenth week of my On-the-Job Training at the Dean’s Office (May 18–22), we successfully finished filing and organizing all documents from the academic years 2024–2025. After completing the previous records, we proceeded with the filing and organization of documents for 2026 to ensure that files were updated and properly arranged for future office use. We also continued routing documents to different offices within the university as part of the regular administrative workflow.</p> <br> <p>In addition to office documentation tasks, I was assigned by Ma’am Canon to create a design layout for the 2026 BUCS – ARO Campus Tour. We were provided with sample layouts as references, which guided us in creating the design for the activity. Through this task, I was able to practice my layout design and editing skills while working on materials needed by the office.</p>'
                     },
                     
                     {
