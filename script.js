@@ -201,7 +201,7 @@
                     
                     {
                             type: 'images',
-                            urls: ['Images/.jpg']
+                            urls: ['Images/week13.png', 'Images/week13.1.png']
                     },
                 ]
             },
